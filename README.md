@@ -14,5 +14,8 @@
 ## Dataset
 1. The dataset is downloaded from kaggle https://www.kaggle.com/datasets/adityakadiwal/water-potability 
 
+## About 
+
+Water quality describes the condition of the water, including chemical, physical, and biological characteristics, usually with respect to its suitability for a particular purpose such as drinking or swimming. This project is all about checking the quality of water, and classifying as potable or non-potable.
 
 
